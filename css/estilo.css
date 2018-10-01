@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+/* Inicio Menu */
+
+.top-bar {
+	background-color: #FDAA27!important;
+}
+
+.top-bar ul {
+	background-color: #FDAA27!important;
+}
+
+.top-bar-left ul .menu-text {
+	color: white;
+}
+
+.top-bar ul li a{
+	color: white;
+	font-weight: bold;
+}
+
+.top-bar ul li a:hover {	
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.top-bar-right ul li button {
+	background-color: #FE6525;
+	font-weight: bold;
+}
+
+.top-bar-right ul li button:hover {
+	background-color: #FE6525;
+	font-weight: bold;
+	border-radius: 10px;	
+}
+
+.top-bar ul li input {
+	border-color: #FE6525;
+
+}
+
+.top-bar ul li input:focus {
+ 	border-color: inherit;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border-color: #FE6525;
+}
+
+/* Fim Menu */
+
+
+/* Inicio Breadcrumbs */
+
+.grid-container nav ul li a {
+	color: #FE6525;
+}
+
+.grid-container nav ul li {
+	color: #FDAA27;
+}
+
+/* Fim Breadcrumbs */
+
+/* Inicio Imagens */
+.grid-container .thumbnail {
+	border:none;
+
+	/*
+	border-color: #FDAA27;
+	border:1px solid;
+	*/
+}
+
+/* Fim Imagens */
+
+/* Inicio texto sobre o projeto lado direito */
+.grid-container h3 {
+	color: #FDAA27;
+}
+
+.grid-container .button.expanded {
+	background-color: #FDAA27;
+	color: white;
+	border:none;
+}
+
+.grid-container .button.expanded:hover {
+	background-color: #FE6525;
+	color: white;
+	border:none;
+}
+
+.button-group.expanded .button {
+	background-color: #FDAA27!important;
+	color: white;
+	border:none;
+}
+
+.button-group.expanded .button:hover {
+	background-color: #FE6525!important;
+	color: white;
+	border:none;
+}
+
+/* Fim texto sobre o projeto lado direito */
+
+/* Inicio 'O Projeto' */
+
+.grid-container h5 {
+	color:  #FDAA27;
+}
+
+
+/* Fim 'O Projeto' */
+
+
+/* Inicio 'Depoimentos' */
+
+.grid-container textarea {
+	border-color: #FDAA27;
+}
+
+.grid-container textarea:focus {
+	border-color: inherit;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border-color: #FDAA27;
+}
+
+.grid-container button {
+	background-color: #FDAA27;
+	font-weight: bold;
+}
+
+.grid-container button:hover {
+	background-color: #FE6525;
+	font-weight: bold;
+	border-radius: 10px;	
+}
+
+/* Fim Depoimentos */
+
+/*
+Paleta de Cores
+link:https://color.adobe.com/Kopie-von-Pullover-Fall-color-theme-11341745/edit/?copy=true
+*/
